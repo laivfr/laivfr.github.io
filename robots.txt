@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://laivfr.github.io/LyH/sitemap.LyH.gz
