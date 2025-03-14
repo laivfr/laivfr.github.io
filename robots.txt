@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://laivfr.csgad.com/Ibr/sitemap.xml.gz
